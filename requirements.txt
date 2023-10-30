@@ -1,0 +1,5 @@
+fastapi
+sqlmodel
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]
